@@ -1,4 +1,4 @@
-# React Film Archieve
+# 🍿 React Film Archieve 🎥
 
 ## https://mollymcmuffin.github.io/film_archive/
 
