@@ -6,7 +6,7 @@ import {useEffect, useState} from 'react';
 
  //api key OMDB: 5b29ce76
 
- const API_URL = 'http://www.omdbapi.com?apikey=5b29ce76';
+ const API_URL = 'https://www.omdbapi.com?apikey=5b29ce76';
 
 
 function App() {
