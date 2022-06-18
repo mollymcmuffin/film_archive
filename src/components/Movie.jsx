@@ -3,7 +3,7 @@ import React from 'react'
 const Movie = ({movie}) => {
   return (
     <>
-        <div className = 'movie' key={movie.imdbID}>
+        <div className = 'movie' >
             <div>
                 <p>{movie.Year}</p>
             </div>
